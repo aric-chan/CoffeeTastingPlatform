@@ -1,0 +1,23 @@
+[{
+  "buyer": "Purchaser 1",
+  "Beans": [
+    {
+      "process": "Natural",
+      "roast month": 2,
+      "roast year": 2024,
+      "origin": "Kenya",
+      "roast date": 10,
+      "beanID": 1,
+      "roaster": "Craft"
+    },
+    {
+      "process": "Washed",
+      "roast month": 12,
+      "roast year": 2023,
+      "origin": "Ethiopia",
+      "roast date": 19,
+      "beanID": 2,
+      "roaster": "P&H"
+    }
+  ]
+}]

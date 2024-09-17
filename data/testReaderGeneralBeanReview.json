@@ -1,0 +1,27 @@
+[{
+  "beanID": 1,
+  "BrewNote": [
+    {
+      "beanID": 1,
+      "taster": "Aric",
+      "aroma": 4,
+      "acidity": 4,
+      "sweet": 6,
+      "body": 8,
+      "finish": 6,
+      "overall": 5,
+      "note": "Floral"
+    },
+    {
+      "beanID": 1,
+      "taster": "Mary",
+      "aroma": 5,
+      "acidity": 5,
+      "sweet": 7,
+      "body": 9,
+      "finish": 7,
+      "overall": 6,
+      "note": "Nutty"
+    }
+  ]
+}]

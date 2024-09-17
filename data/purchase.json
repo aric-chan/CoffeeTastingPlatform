@@ -1,0 +1,26 @@
+[
+    {
+        "Beans": [{
+            "process": "2",
+            "roast month": 2,
+            "roast year": 22,
+            "origin": "2",
+            "roast date": 2,
+            "beanID": 2,
+            "roaster": "2"
+        }],
+        "buyer": "B"
+    },
+    {
+        "Beans": [{
+            "process": "3",
+            "roast month": 3,
+            "roast year": 3,
+            "origin": "3",
+            "roast date": 3,
+            "beanID": 3,
+            "roaster": "3"
+        }],
+        "buyer": "C"
+    }
+]

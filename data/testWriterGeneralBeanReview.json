@@ -1,0 +1,43 @@
+[
+    {
+        "BrewNote": [
+            {
+                "note": "Floral",
+                "acidity": 4,
+                "taster": "Aric",
+                "overall": 5,
+                "finish": 6,
+                "beanID": 1,
+                "sweet": 6,
+                "body": 8,
+                "aroma": 4
+            },
+            {
+                "note": "Nutty",
+                "acidity": 5,
+                "taster": "Mary",
+                "overall": 6,
+                "finish": 7,
+                "beanID": 1,
+                "sweet": 7,
+                "body": 9,
+                "aroma": 5
+            }
+        ],
+        "beanID": 1
+    },
+    {
+        "BrewNote": [{
+            "note": "Fruity",
+            "acidity": 8,
+            "taster": "Sam",
+            "overall": 7,
+            "finish": 5,
+            "beanID": 2,
+            "sweet": 8,
+            "body": 6,
+            "aroma": 8
+        }],
+        "beanID": 2
+    }
+]
