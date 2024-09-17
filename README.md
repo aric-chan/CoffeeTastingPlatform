@@ -23,7 +23,7 @@ Coffee is becoming more popular nowadays, and we all spend a significant amount 
 - As a user, I want to select a coffee bean purchase and edit the details
 
 
-## Instructions for Grader
+## Sample functionalities of the program
 
 - You can add coffee beans purchase to bean list by filling fields in tab of "Purchase Log" and press save.
 - You can add brewing notes to tasting list by filling fields in tab of "Bean Review Log" and press save.
@@ -33,8 +33,8 @@ Coffee is becoming more popular nowadays, and we all spend a significant amount 
 - You can save the state of my application by pressing the "save purchase log" or "save review log" in "HomeTab".
 - You can reload the state of my application by pressing the "load purchase log" or "load review log" in "HomeTab".
 
-## Phase 4: Task 2
-- Below are the sample logevent message printed on Console when closing GUI 
+## Sample output upon exiting program
+- Below are the sample log event message printed on Console when closing GUI 
   -     Print log before exit 
         Sun Mar 31 19:17:43 PDT 2024
         BrewNote of BeanID 1 added to BrewNote List
@@ -85,7 +85,7 @@ Coffee is becoming more popular nowadays, and we all spend a significant amount 
         Sun Mar 31 19:18:00 PDT 2024
         Print average rating of bean review 
 
-## Phase 4: Task 3
+## Appendix and Improvement remarks for future development
 ![UML_Design_Diagram.jpg](src%2FUML_Design_Diagram.jpg)
 Download as pdf: [UML_Design_Diagram.pdf](src%2FUML_Design_Diagram.pdf)
 - Create Interface for HomeTab and CoffeePlatform as they have similar save/load methods
