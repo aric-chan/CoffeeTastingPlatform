@@ -92,4 +92,4 @@ Download as pdf: [UML_Design_Diagram.pdf](src%2FUML_Design_Diagram.pdf)
 - Create abstract class for ViewBeanReivewTab and ViewPurchaseTab to handle print method. Currently the GUI print methods are located in MultiBeanReviews and MultiPurchases which exhibit unnecessarily coupling
 - CoffeePlatform shall contain instance of MultiPurchases and MultiBeanReviews which automatically construct purchase and beanreview arraylists
 - UI classes, JsonWriter and JsonReader shall be refactored to write and save on a single json file instead of two
-- In ReviewLogTab, doBeanReview method checked duplicate bean ID of BeanReview Instance before instantiating which can be implement equals and hashcode contract in BeanReview class
+- In ReviewLogTab, doBeanReview method checked duplicate bean ID of BeanReview Instance before instantiating which can be implement equals and hashcode contract in BeanReview class# CoffeeTastingPlatform
